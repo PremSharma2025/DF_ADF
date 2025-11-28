@@ -1,0 +1,9 @@
+{
+	"name": "ADFactory2029",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2780b29-f268-4625-9843-a6fd1291a57b",
+		"tenantId": "e6411472-8f65-4267-ac8e-69d7daf03c1e"
+	}
+}
